@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "C:\\Users\\zafer\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "expand",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": false,
+    "python.formatting.provider": "black",
+    "jupyter.jupyterServerType": "local",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
+}
